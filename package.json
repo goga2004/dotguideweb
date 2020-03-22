@@ -1,5 +1,6 @@
 {
   "name": "dotguideweb",
+  "homepage": "http://www.onedotnow.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
