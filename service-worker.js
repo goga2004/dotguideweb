@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goga2004.github.io/dotguideweb/precache-manifest.cb2207bd49804b05075fd55d6ccf2eab.js"
+  "/goga2004.github.io/dotguideweb/precache-manifest.7d726dbd878e0ec9449c2b74f596900b.js"
 );
 
 self.addEventListener('message', (event) => {

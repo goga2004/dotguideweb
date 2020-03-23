@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e207a0cae2ec465cc04987d9be8d33f2",
+    "revision": "faadd835671957e0f9ce2364bfbbae45",
     "url": "/goga2004.github.io/dotguideweb/index.html"
   },
   {
-    "revision": "7edfabe4165b4a73cc82",
+    "revision": "21bad3e483967ff23dc7",
     "url": "/goga2004.github.io/dotguideweb/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goga2004.github.io/dotguideweb/static/js/2.a68c4791.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7edfabe4165b4a73cc82",
-    "url": "/goga2004.github.io/dotguideweb/static/js/main.0151b4bb.chunk.js"
+    "revision": "21bad3e483967ff23dc7",
+    "url": "/goga2004.github.io/dotguideweb/static/js/main.c59b0096.chunk.js"
   },
   {
     "revision": "ad1196eeef3ba9e0b5d2",

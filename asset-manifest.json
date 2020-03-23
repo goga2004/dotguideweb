@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goga2004.github.io/dotguideweb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/goga2004.github.io/dotguideweb/static/js/main.0151b4bb.chunk.js",
-    "main.js.map": "/goga2004.github.io/dotguideweb/static/js/main.0151b4bb.chunk.js.map",
+    "main.js": "/goga2004.github.io/dotguideweb/static/js/main.c59b0096.chunk.js",
+    "main.js.map": "/goga2004.github.io/dotguideweb/static/js/main.c59b0096.chunk.js.map",
     "runtime-main.js": "/goga2004.github.io/dotguideweb/static/js/runtime-main.914bf95a.js",
     "runtime-main.js.map": "/goga2004.github.io/dotguideweb/static/js/runtime-main.914bf95a.js.map",
     "static/js/2.a68c4791.chunk.js": "/goga2004.github.io/dotguideweb/static/js/2.a68c4791.chunk.js",
     "static/js/2.a68c4791.chunk.js.map": "/goga2004.github.io/dotguideweb/static/js/2.a68c4791.chunk.js.map",
     "index.html": "/goga2004.github.io/dotguideweb/index.html",
-    "precache-manifest.cb2207bd49804b05075fd55d6ccf2eab.js": "/goga2004.github.io/dotguideweb/precache-manifest.cb2207bd49804b05075fd55d6ccf2eab.js",
+    "precache-manifest.7d726dbd878e0ec9449c2b74f596900b.js": "/goga2004.github.io/dotguideweb/precache-manifest.7d726dbd878e0ec9449c2b74f596900b.js",
     "service-worker.js": "/goga2004.github.io/dotguideweb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/goga2004.github.io/dotguideweb/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a68c4791.chunk.js.LICENSE.txt": "/goga2004.github.io/dotguideweb/static/js/2.a68c4791.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.914bf95a.js",
     "static/js/2.a68c4791.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0151b4bb.chunk.js"
+    "static/js/main.c59b0096.chunk.js"
   ]
 }
